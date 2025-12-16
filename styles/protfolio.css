@@ -1,0 +1,22 @@
+
+/* Font */
+.bbh-bogle-regular {
+  font-family: "BBH Bogle", sans-serif;
+  font-style: normal;
+}
+.nav-title{
+    font-weight: 500;
+    font-size: 40px;
+}
+/* .nav-title-color{
+    color: brown;
+/* } /* bishes drkare onno title use korteci but eita kaj kore */
+
+.text-primary{
+    color: rgb(197, 1, 1);
+}
+
+/* Nav style */
+nav{
+    display: flex;
+}
